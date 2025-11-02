@@ -1,0 +1,15 @@
+.vscode/
+.history/
+.idea/
+*.DS_Store
+
+__pycache__/
+*.pyc
+
+FeatureEng/data/*
+
+.venv/
+
+archive/
+
+catboost_info/
